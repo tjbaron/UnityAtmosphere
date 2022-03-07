@@ -117,7 +117,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - LightDirection: {r: -0.9495868, g: 0.2493158, b: 0.19006993, a: 0}
+    - LightDirection: {r: 0.7803221, g: 0.39716434, b: -0.48307136, a: 0}
     - Planet: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
